@@ -1,0 +1,8 @@
+.idea
+logs
+banned-ips.json
+banned-players.json
+custom.jar
+ops.json
+pebblehost.yml
+permissions.yml

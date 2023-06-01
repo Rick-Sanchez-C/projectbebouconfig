@@ -1,0 +1,3 @@
+Join_Message: '&aPlayer %player% joined the game.'
+Leave_Message: '&cPlayer %player% left the game.'
+Fist_Time_Join_Message: '&bPlayer %player% joined for the first time!'
